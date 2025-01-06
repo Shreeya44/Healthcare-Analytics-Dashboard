@@ -15,6 +15,9 @@ This project involves analyzing state-wide hospital discharge data using Power B
 - **Insights Delivery:**  
   - Provided actionable insights to stakeholders for improving throughput, resource management, and cost reduction.  
 
+## Dataset :
+      - New York state-wide hospital discharge data
+      
 ## Tools & Technologies  
 - **Tools:** Power BI  
 - **Technologies:** Data Visualization, Business Intelligence, Healthcare Analytics  
