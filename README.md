@@ -1,6 +1,5 @@
 # Healthcare Analytics Dashboard  
 
-## Overview  
 This project involves analyzing state-wide hospital discharge data using Power BI to identify efficiency improvement opportunities. The focus is on elective hip replacement surgeries, using key metrics like Length of Stay (LOS) and associated costs. The dashboard provides actionable insights for healthcare management to make data-driven decisions.  
 
 ## Features  
